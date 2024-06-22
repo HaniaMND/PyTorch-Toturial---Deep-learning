@@ -5,7 +5,7 @@ This repo contains Deep Learning implementations using PyTorch library.
 1. PyTorch Basics (I'm still working on this) :
    1.1 A complete Machine Learning workflow using PyTorch.
 
-3. Other implementations :
+2. Other implementations :
    2.1 Neural_Network
    2.2 Activation
    2.3 Gradients
