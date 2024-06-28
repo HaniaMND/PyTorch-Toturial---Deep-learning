@@ -11,6 +11,7 @@ PyTorch Basics :
 
 torch.nn :
 1. First part : Building a Neural Network from scratch
+2. Second part, Refactor using nn classes
 
 Other implementations :
 1. Neural_Network
